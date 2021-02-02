@@ -8,3 +8,6 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b12480
 
 #EXTINF:0 type="stream" channelId="03" name="EC:HBO" group="NACIONALES" logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online-100x70.png" tvg-country="EC", HBO
 https://8s93g89ntabfmd2p.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=9vc_zwwWS9srA0zAVQ3Akw&e=1612272895
+
+#EXTINF:0 type="stream" channelId="04" name="EC:SPACE" group="NACIONALES" logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online-100x70.png" tvg-country="EC", SPACE
+https://8s93g89ntabfmd2p.ezcdn483.net:8443/hls/me4gtt8v3fmket.m3u8?s=S5WwraQkskQ23ZPAxxxM4g&e=1612273520
