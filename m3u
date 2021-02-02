@@ -5,3 +5,6 @@ https://playback.akamaized.net/streams/1359588_4428723_lsir115851smgonrp5i_1/med
 
 #EXTINF:0 type="stream" channelId="02" name="EC:RTS" group="NACIONALES" logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n-en-vivo-Online-1-100x70.png" tvg-country="EC", RTS
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyMzA1NTIxLCJzZXNzaW9uIjoiMTkwLjUyLjE5My43MCIsIndoaXRlbGlzdCI6WyIxOTAuNTIuMTkzLjcwIl19LCJzaWduYXR1cmUiOiIxYTFmZGYyYjgyNDZkOWU5OTU0MjY4NzdhNWE2MDE5NzFjZDkxOGVkIn0%3D
+
+#EXTINF:0 type="stream" channelId="01" name="EC:fox" group="NACIONALES" logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online-100x70.png" tvg-country="EC", fox
+https://cablegratis.online/fox-sports-en-vivo/
