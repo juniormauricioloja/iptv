@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 type="stream" channelId="01" name="EC:TELEAMAZONAS" group="NACIONALES" logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online-100x70.png" tvg-country="EC", Teleamazonas
+https://playback.akamaized.net/streams/1359588_4428723_lsir115851smgonrp5i_1/media/1359588_4428723_lsir115851smgonrp5i_1@2756000p.m3u8?dw=14400&ts=1612249200&hdnts=exp=1612422892~acl=/streams/1359588_4428723_lsir115851smgonrp5i_1/media*~hmac=26fb6daa058cbd718a40aec7c2f81d380151577fac59f1cf4b4899a5fd24dea3
+
+#EXTINF:-1 type="stream" channelId="02" name="EC:RTS" group="NACIONALES" logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n-en-vivo-Online-1-100x70.png" tvg-country="EC", RTS
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyMzA1NTIxLCJzZXNzaW9uIjoiMTkwLjUyLjE5My43MCIsIndoaXRlbGlzdCI6WyIxOTAuNTIuMTkzLjcwIl19LCJzaWduYXR1cmUiOiIxYTFmZGYyYjgyNDZkOWU5OTU0MjY4NzdhNWE2MDE5NzFjZDkxOGVkIn0%3D
+
+#EXTINF:-1 type="stream" channelId="03" name="EC:HBO" group="NACIONALES" logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online-100x70.png" tvg-country="EC", HBO
+https://8s93g89ntabfmd2p.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=9vc_zwwWS9srA0zAVQ3Akw&e=1612272895
+
+#EXTINF:-1 type="stream" channelId="04" name="EC:SPACE" group="NACIONALES" logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TeleAmazonas-en-vivo-Online-100x70.png" tvg-country="EC", SPACE
+https://8s93g89ntabfmd2p.ezcdn483.net:8443/hls/me4gtt8v3fmket.m3u8?s=S5WwraQkskQ23ZPAxxxM4g&e=1612273520
+
+
+
+
+
+
+
+
+
