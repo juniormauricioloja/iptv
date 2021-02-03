@@ -6,8 +6,8 @@ https://playback.akamaized.net/streams/1359588_4428723_lsiuq3kcfxybobf757f_1/med
 #EXTINF:-1 type="stream" channelId="02" name="EC:RTS" group="NACIONALES" logo="https://directostv.teleame.com/wp-content/uploads/2016/05/RTS-en-vivo-Online-218x150.png" tvg-country="EC", RTS
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyNDYzMzg2LCJzZXNzaW9uIjoiMTkwLjUyLjE5My43MCIsIndoaXRlbGlzdCI6WyIxOTAuNTIuMTkzLjcwIl19LCJzaWduYXR1cmUiOiJjYjkzODZiNzg4ODk1ODc5NDA1OGYzZjNhYzNmNjNjYmZjMWJiODJhIn0%3D
 
-
-
+#EXTINF:-1 type="stream" channelId="03" name="EC:ECUAVISA" group="NACIONALES" logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/ecuavisa-en-vivo-1463.png" tvg-country="EC", Ecuavisa
+https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqoc5VS8aKza7fHHtm4kov_s)/dm/3/x7u0ryc/s/live-2.m3u8
 
 
 
