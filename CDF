@@ -1,1 +1,4 @@
-https://raw.githubusercontent.com/juniormauricioloja/iptv/main/LISTA1
+#EXTM3U
+
+#EXTINF:-1,MyC - ANIMAL PLANET
+https://live.televisiongratishd.com/tvplus2023/194_.m3u8?token=cN3uGf9nJjnVdUoi4TtJsQ&expires=1617044457&ip=190.52.193.70
