@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,EC | TELEAMAZONAS
-https://youvideostreaming.club/hls/tvec4.m3u8
+#EXTINF:-1,CH | CANAL DEL FUTBOL
+https://e3.espncdn.shop/ingest02/68472.m3u8?sf=YklPTzA3aHk5VA==&token=ZW7iUB3sk6eZUQS9j2E0lA&expires=1617054354&rnd=
 
-#EXTINF:-1,EC | RTS
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMjU3MjQ0LCJzZXNzaW9uIjoiMTkwLjUyLjE5My43MCIsIndoaXRlbGlzdCI6WyIxOTAuNTIuMTkzLjcwIl19LCJzaWduYXR1cmUiOiJiNDcyNzkyZTQ2NWRjY2ZlZjdlNWUzMTRmZjViN2E1MmI2MjQ4MzhmIn0%3D
+
