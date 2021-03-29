@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1,CH | CANAL DEL FUTBOL 
-https://e3.espncdn.shop/ingest08/67663.m3u8?sf=STR6cmtmWUREYg==&token=1npYCS2-Zou_kwt8_kEBoQ&expires=1617064055&rnd=
+https://e7.espncdn.club/ingest09/25503.m3u8?sf=M1NwczEwU2JE&token=Ug5DYlDCHzX2NREi4zTMLg&expires=1617064244&rnd=
