@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,CH | CANAL DEL FUTBOL 
+#EXTINF:-1,CH | EL CANAL DEL FUTBOL 
 https://live.televisiongratishd.com/tvplus2023/194_.m3u8?token=cN3uGf9nJjnVdUoi4TtJsQ&expires=1617044457&ip=190.52.193.70
