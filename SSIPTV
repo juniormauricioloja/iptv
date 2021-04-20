@@ -1,7 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1, ESPN
-https://e10.espncdn.shop/ingestnb4s/espn_sur/f.m3u8
-
-#EXTINF:-1, TELEAMAZONAS
-https://playback.akamaized.net/streams/1359588_4428723_lsihoyjf3wvwb6mx6of_1/media/1359588_4428723_lsihoyjf3wvwb6mx6of_1@2756000p.m3u8?dw=14400&ts=1618930800&hdnts=exp=1619106128~acl=/streams/1359588_4428723_lsihoyjf3wvwb6mx6of_1/media*~hmac=602a0f639c62ba12f363af41c5c9e1d09d719dd9936e69c809f887bbe1e4419d
+https://wz90us0tdvb31bg.ezcdn462.net:8443/hls/yzfwp0ngkv.m3u8?s=QnXKXTVItMd9dosG2OMTzw&e=1618956153
