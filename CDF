@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1,CH | CANAL DEL FUTBOL 
-https://e5.espncdn.club/ingest09/25503.m3u8?sf=M1NwczEwU2JE&token=gh6_cIkGKrCkSmV-7NT_Yw&expires=1617064444
